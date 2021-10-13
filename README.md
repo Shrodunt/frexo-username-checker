@@ -1,4 +1,4 @@
-# TikTok-Rare-Username-Checker
+# Frexo-Username-Checker
 ## A simple asynchronous tool that checks if a TikTok username is taken or not
 
 ## About
